@@ -17,7 +17,7 @@ public class Puzzle1 {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        File file = new File("Puzzle1\\test.txt");
+        File file = new File("test.txt");
         Scanner input = new Scanner(file);
 
         int index = 1;
